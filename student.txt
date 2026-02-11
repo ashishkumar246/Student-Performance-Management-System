@@ -1,0 +1,10 @@
+1,Ashish Kumar,69,C
+2,Vipin Kumar,78,B
+3,Rahul Singh,89,B
+4,Santosh Kumar,90,A
+5,Ashish Pandey,73,C
+6,Anish Sharma,95,O
+7,Parsuttam Kumar,68,C
+8,Einstein,98,O
+9,Genius Kumar,110,O
+9 ,E,101,O
