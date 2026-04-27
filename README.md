@@ -4,4 +4,4 @@ Developed a Python-based Student Performance Management System to manage academi
 results
 • Used file handling to store, read, and update student records persistently
 • Built features such as student registration, marks entry, grade calculation, and performance summary
-• Applied conditional logic, loops, and functions to validate input and generate reports . YOLO test update . Pair extraordinaire test  
+• Applied conditional logic, loops, and functions to validate input and generate reports . YOLO test update . Pair extraordinaire test  . to the
